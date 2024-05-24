@@ -1,4 +1,4 @@
-package org.sparta.springauth;
+package com.sparta.springauth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
